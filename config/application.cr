@@ -1,6 +1,4 @@
 Kemalyst::Application.config do |config|
-  #config.env = "production"
-  
   # create a log file
   log = File.new("logs/#{config.env}.log", "a")
   log.flush_on_newline = true
@@ -14,5 +12,4 @@ Kemalyst::Application.config do |config|
     io << "[" << datetime << " #" << Process.pid << "] "
     io << severity.rjust(5) << ": " << message
   end
-
 end
