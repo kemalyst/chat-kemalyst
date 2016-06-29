@@ -1,0 +1,7 @@
+[2016-06-29 12:26:51 -0700 #72519]  INFO: 19ade17b-3839-4696-b177-6c25e87eed45 200 | GET / | 2.19ms
+[2016-06-29 12:26:51 -0700 #72519]  INFO: 74de9c61-c55e-4c11-bfad-c8f41c37617f 404 | GET /styles/main.css | 148.0µs
+[2016-06-29 12:26:51 -0700 #72519]  INFO: 5ebdbef1-abca-4f5e-8ed2-ad2fa5ab2697 304 | GET /javascripts/main.js | 46.0µs
+[2016-06-29 12:26:51 -0700 #72519]  INFO: c503850a-6c2d-4029-8066-a44dc59210bc 404 | GET /styles/main.css | 118.0µs
+[2016-06-29 12:27:03 -0700 #72519]  INFO: fd001a62-8964-42d8-88f5-13d1d4bde526 200 | GET / | 126.0µs
+[2016-06-29 12:27:03 -0700 #72519]  INFO: 938f7959-9039-4318-92d4-df238ed7ef1d 404 | GET /styles/main.css | 176.0µs
+[2016-06-29 12:27:03 -0700 #72519]  INFO: ae8f2a0b-72e6-4663-ba8e-4c4ae41ba960 304 | GET /javascripts/main.js | 60.0µs
