@@ -1,5 +1,7 @@
 sudo: required
 
+language: crystal
+
 services:
   - docker
 
