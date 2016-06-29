@@ -1,5 +1,7 @@
 # React + Kemalyst Chat Example
 
+[![Build Status](https://travis-ci.org/drujensen/chat-kemalyst.svg?branch=master)](https://travis-ci.org/drujensen/chat-kemalyst)
+
 This is a fork of the React + Kemal Chat example [found here](https://github.com/sdogruyol/kemal-chat)
 
 Chat app using [React](https://facebook.github.io/react/) + [Kemal](http://kemalcr.com).
