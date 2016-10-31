@@ -1,5 +1,7 @@
 Kemalyst::Application.config do |config|
-  # create a log file
+  # Creates "logs/" folder unless it exists
+  Dir.mkdir("logs") unless File.directory? "logs"
+
   log = File.new("logs/#{config.env}.log", "a")
   log.flush_on_newline = true
 
