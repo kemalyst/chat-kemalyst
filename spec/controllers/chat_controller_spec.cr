@@ -5,7 +5,7 @@ describe ChatController::Index do
   it "renders chat/index.ecr" do
     request = HTTP::Request.new("GET", "/")
     io, context = create_context(request)
-    response = ChatController::Index.instance.call(context) as String
+    response = ChatController::Index.instance.call(context).as(String)
     response.should contain "React Example with Kemalyst"
   end
 
