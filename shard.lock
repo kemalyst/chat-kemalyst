@@ -6,19 +6,11 @@ shards:
 
   kemalyst:
     github: drujensen/kemalyst
-<<<<<<< HEAD
-    commit: d5c238029a0d7b1e2e1d80cd29d66a580105b3fc
+    commit: 0e220e19a5bb934838f435132000f36742e11625
 
   kemalyst-model:
     github: drujensen/kemalyst-model
-    commit: 5185a33176a6196e20f76cd4a244bd04dce8bdc2
-=======
-    commit: 88555fe7068163a7afd622e2841bca1732314e76
-
-  kemalyst-model:
-    github: drujensen/kemalyst-model
-    commit: 8c3b0724c26bddbf5c2bb7756b3d825525eeaba6
->>>>>>> cdc756e8401d0371c9d3ec8875aa6dba6aad497f
+    commit: 2418e0480df5292db3434e8b1ce344061a9e1857
 
   kemalyst-validators:
     github: drujensen/kemalyst-validators
